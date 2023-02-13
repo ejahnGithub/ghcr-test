@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Publish action package
-        uses: github/package-action@latest
+        uses: actions/package-action@1.0.1
